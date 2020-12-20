@@ -1,4 +1,4 @@
-### Hi there 👋
+### A Website for Rock music. 👋
 
 <!--
 **Rock0fAges/Rock0fAges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
